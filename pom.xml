@@ -72,13 +72,13 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>JFrog-snapshots</name>
+        <name>Jfrog-Artifactory-snapshots</name>
         <url>http://master-node.eastus.cloudapp.azure.com:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 
     <repository>
         <id>central</id>
-        <name>JFrog-releases</name>
+        <name>Jfrog-Artifactory-releases</name>
         <url>http://master-node.eastus.cloudapp.azure.com:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
