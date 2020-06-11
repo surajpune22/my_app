@@ -75,8 +75,7 @@
         <name>JFrog-snapshots</name>
         <url>http://master-node.eastus.cloudapp.azure.com:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-</distributionManagement>
-<distributionManagement>
+
     <repository>
         <id>central</id>
         <name>JFrog-releases</name>
